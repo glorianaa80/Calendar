@@ -1,0 +1,22 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "Calendar App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glorianaa80/Calendar.git"
+  },
+  "author": "Gloriana Angulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glorianaa80/Calendar/issues"
+  },
+  "homepage": "https://github.com/glorianaa80/Calendar#readme",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}
